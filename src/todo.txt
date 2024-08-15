@@ -1,0 +1,6 @@
+[] - header
+[] - о нас
+[] - menu
+[] - scroll
+[] - скидки 
+[] - footer 
